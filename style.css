@@ -312,7 +312,7 @@ img {
 }
 
 .mu-top-slider .mu-top-slider-single:after {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0);
   bottom: 0;
   content: "";
   left: 0;
